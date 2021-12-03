@@ -1,0 +1,8 @@
+.disabled {
+  background-color: lightgray;
+  pointer-events: none;
+}
+
+.disabledImg {
+  filter: grayscale(100%);
+}
